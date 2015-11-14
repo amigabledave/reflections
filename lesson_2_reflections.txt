@@ -7,3 +7,6 @@ To be able to start tracking different versions trought creating commits in git.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It offers a way to limmit the number of files to be included in the commit to be able to make the commit a more logical one.
+
+###
+Esto es una prueba para ver si se guardan los cambios
